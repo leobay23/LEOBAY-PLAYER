@@ -1,0 +1,14 @@
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\bin\Debug\LEOBAY PLAYER.exe.config
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\obj\Debug\LEOBAY PLAYER.csprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\obj\Debug\Interop.WMPLib.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\obj\Debug\AxInterop.WMPLib.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\obj\Debug\LEOBAY PLAYER.csproj.ResolveComReference.cache
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\obj\Debug\LEOBAY_PLAYER.Form1.resources
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\obj\Debug\LEOBAY_PLAYER.Properties.Resources.resources
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\obj\Debug\LEOBAY PLAYER.csproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\bin\Debug\LEOBAY PLAYER.exe
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\bin\Debug\LEOBAY PLAYER.pdb
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\bin\Debug\Interop.WMPLib.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\bin\Debug\AxInterop.WMPLib.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\obj\Debug\LEOBAY PLAYER.exe
+c:\users\estudiante\documents\visual studio 2013\Projects\LEOBAY PLAYER\LEOBAY PLAYER\obj\Debug\LEOBAY PLAYER.pdb
